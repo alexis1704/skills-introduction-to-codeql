@@ -183,7 +183,7 @@ El usuario debe:
 3. Revisar los detalles de la alerta
 4. Cerrar (dismiss) la alerta con razón "Used in tests"
 5. Reabrir la alerta
-6. Comentar en el issue con las palabras clave: `"Hey @professortocat, I've closed an reopened an alert. What is the next step?"`
+6. Comentar en el issue con las palabras clave: `"Hey @professortocat, I've closed and reopened an alert. What is the next step?"`
 
 ---
 
